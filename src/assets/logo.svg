@@ -1,0 +1,88 @@
+<svg width="1023" height="1000" viewBox="0 0 1023 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="511" cy="500" r="500" fill="black"/>
+<g clip-path="url(#clip0_6_187)">
+<g clip-path="url(#clip1_6_187)">
+<g clip-path="url(#clip2_6_187)">
+<mask id="mask0_6_187" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="1" y="181" width="1021" height="639">
+<path d="M1021.2 181.742H1.22327V819.228H1021.2V181.742Z" fill="white"/>
+<g clip-path="url(#clip3_6_187)">
+<g clip-path="url(#clip4_6_187)">
+<g clip-path="url(#clip5_6_187)">
+<g clip-path="url(#clip6_6_187)">
+<g clip-path="url(#clip7_6_187)">
+<g clip-path="url(#clip8_6_187)">
+<path d="M523.025 306.653L565.442 591.227L623.968 300.21H701.286L615.914 701.834H550.945L505.306 421.019L445.706 701.834H368.388L445.706 337.258C421.724 347.281 403.289 362.315 390.403 382.36C377.516 402.406 371.073 426.389 371.073 454.309C371.073 461.11 371.538 467.017 372.469 472.028C373.328 477.039 374.832 481.872 376.979 486.525C377.695 487.957 378.161 488.923 378.375 489.424C378.518 489.997 378.59 490.463 378.59 490.82C358.545 490.82 343.976 486.597 334.884 478.149C325.72 469.773 321.138 456.636 321.138 438.738C321.138 421.556 325.434 404.088 334.025 386.334C342.616 368.651 354.428 353.008 369.462 339.406C383.78 326.162 399.817 316.139 417.571 309.338C435.254 302.537 453.76 299.136 473.09 299.136C487.05 299.136 497.538 299.744 504.554 300.962C511.498 302.25 517.655 304.147 523.025 306.653Z" fill="white" stroke="black" stroke-width="22.0565" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</mask>
+<g mask="url(#mask0_6_187)">
+<path d="M524.302 285.682L571.309 601.044L636.167 278.541H721.851L627.241 723.618H555.243L504.667 412.421L438.618 723.618H352.937L438.618 319.599C412.041 330.706 391.611 347.367 377.332 369.581C363.051 391.795 355.913 418.373 355.91 449.314C355.91 456.851 356.426 463.396 357.457 468.949C358.409 474.504 360.075 479.857 362.458 485.015C363.252 486.601 363.768 487.674 364.002 488.228C364.162 488.862 364.24 489.378 364.242 489.775C342.028 489.775 325.882 485.095 315.807 475.731C305.651 466.45 300.573 451.89 300.573 432.059C300.573 413.019 305.334 393.66 314.855 373.983C324.376 354.387 337.466 337.052 354.125 321.979C369.993 307.303 387.764 296.196 407.44 288.658C427.037 281.12 447.543 277.352 468.966 277.352C484.436 277.352 496.059 278.028 503.834 279.374C511.529 280.803 518.353 282.904 524.302 285.682Z" fill="white"/>
+</g>
+<g clip-path="url(#clip9_6_187)">
+<g clip-path="url(#clip10_6_187)">
+<g clip-path="url(#clip11_6_187)">
+<g clip-path="url(#clip12_6_187)">
+<g clip-path="url(#clip13_6_187)">
+<g clip-path="url(#clip14_6_187)">
+<path d="M523.025 306.653L565.442 591.227L623.968 300.21H701.286L615.914 701.834H550.945L505.306 421.019L445.706 701.834H368.388L445.706 337.258C421.724 347.281 403.289 362.315 390.403 382.36C377.516 402.406 371.073 426.389 371.073 454.309C371.073 461.11 371.538 467.017 372.469 472.028C373.328 477.039 374.832 481.872 376.979 486.525C377.695 487.957 378.161 488.923 378.375 489.424C378.518 489.997 378.59 490.463 378.59 490.82C358.545 490.82 343.976 486.597 334.884 478.149C325.72 469.773 321.138 456.636 321.138 438.738C321.138 421.556 325.434 404.088 334.025 386.334C342.616 368.651 354.428 353.008 369.462 339.406C383.78 326.162 399.817 316.139 417.571 309.338C435.254 302.537 453.76 299.136 473.09 299.136C487.05 299.136 497.538 299.744 504.554 300.962C511.498 302.25 517.655 304.147 523.025 306.653Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_6_187">
+<rect width="1022.42" height="636.97" fill="white" transform="translate(0 182)"/>
+</clipPath>
+<clipPath id="clip1_6_187">
+<rect width="1019.98" height="637.486" fill="white" transform="translate(1.22327 181.742)"/>
+</clipPath>
+<clipPath id="clip2_6_187">
+<rect width="1019.98" height="637.486" fill="white" transform="translate(1.22327 181.742)"/>
+</clipPath>
+<clipPath id="clip3_6_187">
+<rect width="423.102" height="446.24" fill="white" transform="translate(299.661 277.365)"/>
+</clipPath>
+<clipPath id="clip4_6_187">
+<rect width="423.102" height="446.24" fill="white" transform="translate(299.661 277.365)"/>
+</clipPath>
+<clipPath id="clip5_6_187">
+<rect width="423.102" height="446.24" fill="white" transform="translate(299.661 277.365)"/>
+</clipPath>
+<clipPath id="clip6_6_187">
+<rect width="423.102" height="446.24" fill="white" transform="translate(299.661 277.365)"/>
+</clipPath>
+<clipPath id="clip7_6_187">
+<rect width="423.102" height="446.24" fill="white" transform="translate(299.661 277.365)"/>
+</clipPath>
+<clipPath id="clip8_6_187">
+<rect width="423.102" height="446.24" fill="white" transform="translate(299.661 277.365)"/>
+</clipPath>
+<clipPath id="clip9_6_187">
+<rect width="423.102" height="446.24" fill="white" transform="translate(299.661 277.365)"/>
+</clipPath>
+<clipPath id="clip10_6_187">
+<rect width="423.102" height="446.24" fill="white" transform="translate(299.661 277.365)"/>
+</clipPath>
+<clipPath id="clip11_6_187">
+<rect width="423.102" height="446.24" fill="white" transform="translate(299.661 277.365)"/>
+</clipPath>
+<clipPath id="clip12_6_187">
+<rect width="423.102" height="446.24" fill="white" transform="translate(299.661 277.365)"/>
+</clipPath>
+<clipPath id="clip13_6_187">
+<rect width="423.102" height="446.24" fill="white" transform="translate(299.661 277.365)"/>
+</clipPath>
+<clipPath id="clip14_6_187">
+<rect width="423.102" height="446.24" fill="white" transform="translate(299.661 277.365)"/>
+</clipPath>
+</defs>
+</svg>
